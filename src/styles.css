@@ -1,0 +1,17 @@
+@keyframes move-up {
+    from {
+        transform: translateY(100px);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
